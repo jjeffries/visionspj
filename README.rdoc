@@ -1,11 +1,12 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This application is a website created to display the artwork of Pam Jeffries
+
+I am using this application as a learning tool for RoR development. As the project progresses I will fill in the items below. 
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version ruby 2.2.3p173
 
 * System dependencies
 
