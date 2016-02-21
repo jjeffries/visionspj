@@ -11,6 +11,8 @@ group :test, :production do
     gem 'pg'
     gem 'rails_12factor'
 end
+
+gem 'bootstrap-sass',       '3.2.0.0'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
